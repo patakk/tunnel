@@ -1,3 +1,3 @@
 # SquaresTunnel
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/patakk/SquaresTunnel/blob/master/image.jpg)
