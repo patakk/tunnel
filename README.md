@@ -1,3 +1,3 @@
 # SquaresTunnel
 
-![alt text](https://github.com/patakk/SquaresTunnel/blob/master/image.jpg)
+![alt text](https://github.com/patakk/SquaresTunnel/blob/master/vector/emilio.svg)
